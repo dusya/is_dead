@@ -23,5 +23,6 @@ You can't have my stuff unless you call dibs on it first. A handful of items hav
 * All my dogecoin mining equipment and WiiU stuff, including TV - Mike Skalnik (@skalnik)
 * The full balance of my Dogecoin wallet - Slava Shirokov (@sshirokov)
 * All computer hardware - Drew Oliner (@Drewzar)
+* All illigitimate and useless Federal Reserve Notes and related securities and holdings - Slava Shirokov (@sshirokov)
 
 If you wish to claim one of my belongings, or if you think I missed something, please submit a pull request.
