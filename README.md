@@ -21,5 +21,6 @@ My Belongings
 You can't have my stuff unless you call dibs on it first. A handful of items have already been pre-designated:
 
 * The full balance of my Dogecoin wallet - Slava Shirokov (@sshirokov)
+* All computer hardware - Drew Oliner (@Drewzar)
 
 If you wish to claim one of my belongings, or if you think I missed something, please submit a pull request.
