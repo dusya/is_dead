@@ -25,5 +25,6 @@ You can't have my stuff unless you call dibs on it first. A handful of items hav
 * All computer hardware - Drew Oliner (@Drewzar)
 * All illigitimate and useless Federal Reserve Notes and related securities and holdings - Slava Shirokov (@sshirokov)
 * Collection of vintage knock-knock joke books - Evan DeLaney(@evandelaney)
+* All of my books and things that smell good (incense, oils, waxes, candles, etc) - Katy Shirokov (@dusya)
 
 If you wish to claim one of my belongings, or if you think I missed something, please submit a pull request.
